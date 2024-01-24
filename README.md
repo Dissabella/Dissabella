@@ -1,5 +1,5 @@
 ### Hi there 👋
-![If it works, it ain't stupid](http://url/to/img.png](https://imgur.com/tgcpTM7))
+![If it works, it ain't stupid](https://i.imgur.com/tgcpTM7.jpg)
 <!--
 **Dissabella/Dissabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
